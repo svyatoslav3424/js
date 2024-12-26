@@ -18,3 +18,6 @@ console.log(greeting)
 const result = 10 >= 500
 console.log(result);
 
+
+
+

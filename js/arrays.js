@@ -60,3 +60,13 @@ const date = "2024-12-25";
 const formattedDate = 
 
 console.log("Дата у новому форматі:", formattedDate);
+
+// ! завдання 1
+
+const numbers = [3, 7, 12, 5, 9];
+let sum = 0;
+
+for (let i = 0; i < numbers.length; i+) {
+  sum += numbers[i]; 
+}
+console.log("Сума чисел у масиві:", sum);
